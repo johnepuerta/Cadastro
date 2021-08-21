@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="nameLbl">Nome Completo</string>
+    <string name="phoneLbl">Telefone</string>
+    <string name="phoneHintLbl">Ex.: 12-93456-7890</string>
+    <string name="mailLbl">E-mail</string>
+    <string name="checkMailLbl">Ingressar na lista de e-mails?</string>
+    <string name="genderLbl">Sexo</string>
+    <string name="maleLbl">Masculino</string>
+    <string name="femaleLbl">Feminino</string>
+    <string name="cityLbl">Cidade</string>
+    <string name="stateLbl">UF</string>
+    <string name="clearLbl">Limpar</string>
+    <string name="saveLbl">Salvar</string>
+    <string-array name="astates">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+        <item>Distrito Federal</item>
+    </string-array>
+</resources>
